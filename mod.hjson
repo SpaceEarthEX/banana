@@ -1,0 +1,7 @@
+name: "banana"
+displayName: "Banana"
+author: "SpaceEarthEX"
+description: "you chilled with new joke: surge banana joke"
+version: "0.1"
+minGameVersion: "136"
+hidden: "true"
