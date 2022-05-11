@@ -1,5 +1,6 @@
 # banana
-you chilled with new joke: surge banana joke.
-Very small texturepack that changes surge to banana
+"you chilled with new joke: surge banana joke."
 
-Stardew valley version
+Very small texturepack that changes surge to banana.
+
+- Stardew valley version
