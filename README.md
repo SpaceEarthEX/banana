@@ -3,4 +3,4 @@
 
 Very small texturepack that changes surge into banana.
 
-- Stardew valley version
+- Stardew valley version: https://github.com/SpaceEarthEX/bananaSV
